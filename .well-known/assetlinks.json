@@ -1,5 +1,5 @@
 [{
 	  "relation": ["delegate_permission/common.handle_all_urls"],
 	    "target" : { "namespace": "android_app", "package_name": "com.orange.bosco",
-		                   "sha256_cert_fingerprints": ["81:39:38:A9:78:E2:10:25:75:35:5F:6C:3F:C3:E3:5B:10:1E:5C:6D:B8:A6:39:0E:61:42:4D:63:09:7E:C0:CF"] }
+		                   "sha256_cert_fingerprints": ["wrongSHA!81:39:38:A9:78:E2:10:25:75:35:5F:6C:3F:C3:E3:5B:10:1E:5C:6D:B8:A6:39:0E:61:42:4D:63:09:7E:C0:CF"] }
 }]
